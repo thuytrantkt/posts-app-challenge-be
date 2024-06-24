@@ -21,3 +21,5 @@
    ```
    python app.py
    ```
+
+Note: `colab-challenge-be` should be associated with the front end that can be cloned from this repository [`colab-challenge-fe`](https://github.com/thuytrantkt/colab-challenge-fe). Please follow README in that repository to setup front end and run the server.
